@@ -74,6 +74,12 @@
   </plugin>
 
   <access origin="*" launch-external="yes"/>
+  <allow-navigation href="*://*.shop-mobilizer.com/*"/>
+  <allow-navigation href="*://shop-mobilizer.com/*"/>
+  <allow-navigation href="*://*.storemobilizer.com/*"/>
+  <allow-navigation href="*://storemobilizer.com/*"/>
+  <allow-navigation href="*://*.imall.com/*"/>
+  <allow-navigation href="*://imall.com/*"/>
 
   <config-file platform="ios" parent="UIStatusBarHidden">
     <true/>
