@@ -80,6 +80,7 @@
   <allow-navigation href="*://storemobilizer.com/*"/>
   <allow-navigation href="*://*.imall.com/*"/>
   <allow-navigation href="*://imall.com/*"/>
+  <allow-navigation href="*://ajax.googleapis.com/*"/>
 
   <config-file platform="ios" parent="UIStatusBarHidden">
     <true/>
