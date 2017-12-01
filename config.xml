@@ -75,12 +75,12 @@
 
   <allow-navigation href="*"/>
 
-  <config-file platform="ios" parent="UIStatusBarHidden">
+  <!--config-file platform="ios" parent="UIStatusBarHidden">
     <true/>
   </config-file>
   <config-file platform="ios" parent="UIViewControllerBasedStatusBarAppearance">
     <false/>
-  </config-file>
+  </config-file-->
 
   <!--config-file platform="winphone" parent="/Deployment" mode="replace">
     <Languages xmlns="">
