@@ -81,6 +81,8 @@
   <allow-navigation href="*://*.imall.com/*"/>
   <allow-navigation href="*://imall.com/*"/>
   <allow-navigation href="*://ajax.googleapis.com/*"/>
+  <allow-navigation href="*://*.cyfrovychok.ua/*"/>
+  <allow-navigation href="*://cyfrovychok.ua/*"/>
 
   <config-file platform="ios" parent="UIStatusBarHidden">
     <true/>
