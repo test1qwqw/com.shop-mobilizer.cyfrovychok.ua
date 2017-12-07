@@ -13,7 +13,6 @@
   </author>
   <description>cyfrovychok.ua</description>
   <preference name="phonegap-version" value="cli-7.0.1"/>
-  <preference name="pgb-builder-version" value="1"/>
   <preference name="fullscreen" value="true"/>
   <preference name="permissions" value="none"/>
 
@@ -75,6 +74,7 @@
   </plugin>
 
   <allow-navigation href="*"/>
+  <allow-intent href="*"/>
   <access origin="*"/>
 
   <config-file platform="ios" parent="UIStatusBarHidden">
