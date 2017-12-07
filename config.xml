@@ -3,8 +3,8 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.shop-mobilizer.cyfrovychok.ua"
-  version     = "17.12.06"
-  versionCode = "171206"
+  version     = "17.12.07"
+  versionCode = "171207"
 >
   <name>Интернет магазин Цифровичок</name>
   <author
@@ -74,6 +74,7 @@
   </plugin>
 
   <allow-navigation href="*"/>
+  <access origin="*"/>
 
   <config-file platform="ios" parent="UIStatusBarHidden">
     <true/>
